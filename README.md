@@ -1,6 +1,8 @@
 ### Debye Temperature ML
 ### Author: Adam D. Smith 
 ### Institution: Department of Physics, University of Alabama at Birmingham
+
+### Paper now available as a preprint: https://arxiv.org/pdf/2305.12977.pdf
 ___________________________________________________________________________
 #### Dependencies:  Python>=3.7, Python packages: Matminer, Pandas, XGboost
 ___________________________________________________________________________
